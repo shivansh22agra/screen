@@ -1,25 +1,25 @@
 {
   "Documents":[
     {
-      "image":"assets/5.svg",
+      "image":"assets/1_.png",
       "name":"Document Name.pdf",
       "description":"taskspace reseacrh paper",
       "Time":"viewed 2 days ago"
     },
     {
-      "image":"assets/1.svg",
+      "image":"assets/2_.png",
       "name":"Lorem ipsum.txt",
       "description":"taskspace reseacrh paper",
       "Time":"viewed 2 mins ago"
     },
     {
-      "image":"assets/2.svg",
+      "image":"assets/3_.jpg",
       "name":"Lorem ipsum.xls",
       "description":"taskspace reseacrh paper",
       "Time":"viewed 2 days ago"
     },
     {
-      "image":"assets/5.svg",
+      "image":"assets/4_.png",
       "name":"Document Name.pdt",
       "description":"taskspace reseacrh paper",
       "Time":"viewed 2 days ago"
@@ -27,7 +27,7 @@
    {
     "name":"Document Name.doc",
     "description":"taskspace reseacrh paper",
-    "image":"assets/4.svg",
+    "image":"assets/1_.png",
     "Time":"viewed 2 days ago"
    }
   ]

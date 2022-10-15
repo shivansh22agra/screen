@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:project/pageview.dart';
 
 import 'HomePage.dart';
 
@@ -18,7 +19,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
        //   locale: DevicePreview.locale(context),
       debugShowCheckedModeBanner: false,
-      home: HomePage()
+      home: PageViews()
     );
   }
 }
